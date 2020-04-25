@@ -1,1 +1,3 @@
 feature3-step1
+feature3-step2
+feature3-step3
